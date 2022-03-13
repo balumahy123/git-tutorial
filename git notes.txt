@@ -1,0 +1,17 @@
+Git :
+
+- Linus Torvalds 
+- Version control software
+- s/w code keeps on changing due to new reqs, so how efficiently user manages the 
+  version of a code and how to handle this situation is the concept of VCS
+
+Github:  
+ - web appn, which is one of very famous git providers 
+ - web based hosting service for s/w code 
+ - collabrative tol which helps work on a single projct without any difficulties
+ 
+Basic Github Termsinologies:
+
+- Repositories( folder containing all the files) - private/public repos
+- read me file(basic instructions)
+- commit (saving the state)

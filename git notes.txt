@@ -22,3 +22,14 @@ Github branches
 - Each repo has 1 default branch and can have multiple other branches. You can merge a branch to another 
   branch using a pull request. 
 - Use branches to develop new features, fix bugs, safely experiment a new idea. 
+
+Merging branch with master
+
+- compare & pull request
+- Merge and approve changes to master
+
+Forking changes 
+
+- When a community wants to contribute to the repository, they dont have permission to edit. 
+- They can fork and make the changes and make a pull request. The original author of the repository 
+  can verify the pull request and accept/decline the request.
